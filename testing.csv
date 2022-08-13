@@ -1,10 +1,1 @@
-INTENT_NAME,UTTERANCES,RESPONDES
-INFO_ADD_HOUSE,add a homeowners policy,"Ok, give me your name and contact number"
-INFO_ADD_HOUSE,I just bought a house and want to add it to the rest of my policies,give me your name and  home address for a record
-INFO_ADD_REMOVE_INSURED,take my wife off of my auto policy,"No problem, what is your name?"
-INFO_CANT_SEE_FARM_RANCH_POLICY,why is my farm policy not listed,"it may exit system error or failure, so what is your name?"
-INFO_DIFFERENT_AMTS,Incorrect amount is appearing on my bill,"do not warry, get me more detail related your bill"
-INFO_LIFE_CASH_OUT,i like to cash out my life insurance policy,"Ok, give me your name and contact number"
-INFO_LOGIN_ERROR,My account its stating an error message at the time of login,"don worry, it may exist system error, give me your name."
-INFO_PYMT_NOT_ONTIME,are there penalties for late payment,you may be charged a late fee of as much as $15 per day until your payment goes through.
-INFO_TRANSFER_ACCT_BALANCE,Can I transfer my amount to another account,If you have multiple accounts at the same bank?like a checking account and savings account?it's often easy to set up a transfer between them.
+INTENT_NAME,UTTERANCES,RESPONDESINFO_ADD_HOUSE,add a homeowners policy,"Ok, give me your name and contact number"INFO_ADD_HOUSE,I just bought a house and want to add it to the rest of my policies,give me your name and  home address for a recordINFO_ADD_REMOVE_INSURED,take my wife off of my auto policy,"No problem, what is your name?"INFO_CANT_SEE_FARM_RANCH_POLICY,why is my farm policy not listed,"it may exit system error or failure, so what is your name?"INFO_DIFFERENT_AMTS,Incorrect amount is appearing on my bill,"do not warry, get me more detail related your bill"INFO_LIFE_CASH_OUT,i like to cash out my life insurance policy,"Ok, give me your name and contact number"INFO_LOGIN_ERROR,My account its stating an error message at the time of login,"don worry, it may exist system error, give me your name."INFO_PYMT_NOT_ONTIME,are there penalties for late payment,you may be charged a late fee of as much as $15 per day until your payment goes through.INFO_TRANSFER_ACCT_BALANCE,Can I transfer my amount to another account,If you have multiple accounts at the same bank?like a checking account and savings account?it's often easy to set up a transfer between them.
